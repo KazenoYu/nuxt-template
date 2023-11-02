@@ -1,3 +1,13 @@
+# 前言
+此專案建置了基礎的頁面與配置 ( 含 Vuetify )
+供後續專案進行撰寫
+內含：
+1. Vuetify
+2. Nuxt
+後續加上：
+1. Eslint
+2. Prettier
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
